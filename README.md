@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hyun's%20Profile&fontSize=80&animation=fadeIn&fontAlignY=38&desc=꿈을%20향해%20나아가는%20개발자%20최현섭입니다.&descAlignY=51&descAlign=62" />
 
-### 🔧 **Tech Stack**
+🔧 **Tech Stack**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
