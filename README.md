@@ -29,7 +29,7 @@
 
 <div align="center">
 📈 **GitHub Stats**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 ### 💻 **Most Used Languages**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358)](https://github.com/hyun1358/github-readme-stats)
 </div>
