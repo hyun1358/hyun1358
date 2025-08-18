@@ -5,10 +5,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> &nbsp
 </p>
 
 ---
