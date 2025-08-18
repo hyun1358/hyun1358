@@ -24,15 +24,14 @@
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&hide=contribs,prs&show_icons=true&theme=gotham)
+[![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&show_icons=true&count_private=true&theme=gotham)](https://github.com/hyun1358)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🏆 **Problem Solving**
 <div align="center">
 ### 🎯 **Baekjoon Online Judge**
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604)](https://solved.ac/chs010604)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604)](https://solved.ac/profile/chs010604)
 </div>
 ---
 
