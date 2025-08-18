@@ -14,65 +14,24 @@
 
 ### 💻 **Languages & Frameworks**
 
-<table>
-<tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</td>
-</tr>
-</table>
-
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
 </div>
-
----
 
 ## 📊 **GitHub Statistics**
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📈 **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=hyun1358&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" alt="Hyun's GitHub Stats" />
-
-</td>
-<td width="50%">
-
-### 🔥 **Streak Stats**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyun1358&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="Hyun's GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
+📈 **GitHub Stats**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358)](https://github.com/anuraghazra/github-readme-stats)
 ### 💻 **Most Used Languages**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358)](https://github.com/hyun1358/github-readme-stats)
 </div>
 
 ---
