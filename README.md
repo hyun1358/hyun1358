@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=FFFFFF&random=true&width=435&lines=%F0%9F%8C%8AHyun's+Profile" alt="Typing SVG" /></a>
 <br>
-<img src="https://komarev.com/ghpvc/?username=hyun1358&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -29,38 +28,19 @@
 
 <div align="center">
 📈 **GitHub Stats**
-[![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&theme=dracula)](https://github.com/hyun1358/github-readme-stats)
 ### 💻 **Most Used Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358)](https://github.com/hyun1358/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&theme=dracula)](https://github.com/hyun1358/github-readme-stats)
 </div>
 
 ---
 
 ## 🏆 **Problem Solving**
-
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
 ### 🎯 **Baekjoon Online Judge**
-<a href="https://solved.ac/profile/chs010604">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604" alt="Solved.ac Profile" />
-</a>
-
-</td>
-<td width="50%">
-
-### 📊 **Algorithm Stats**
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chs010604" alt="Mini Solved.ac Badge" />
-
-</td>
-</tr>
-</table>
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604)](https://solved.ac/chs010604)
 </div>
-
 ---
 
 ## 📫 **Contact Me**
@@ -72,21 +52,11 @@
 <a href="mailto:chs010604@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="mailto:chs010604@naver.com">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+<a href="">
+  <img src="https://img.shields.io/badge/velog-03C75A?style=for-the-badge&logo=velog-03C75A&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/hyun1358">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ **"코드로 세상을 바꾸는 개발자가 되겠습니다"** ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 
 </div>
