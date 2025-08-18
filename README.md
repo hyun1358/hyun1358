@@ -7,6 +7,8 @@
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## 🏆 Algorithm (Programmers)
 
 ![Programmers](https://img.shields.io/badge/Programmers-Lv.3-blue?style=flat-square)
