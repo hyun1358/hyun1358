@@ -32,7 +32,6 @@
 <div align="center">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604)](https://solved.ac/profile/chs010604)
 </div>
----
 
 ## 📫 **Contact Me**
 <div align="center">
