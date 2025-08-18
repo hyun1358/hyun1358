@@ -1,36 +1,36 @@
-# 👋 Hi, I'm 리 총
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Hyun's%20Profile&fontSize=80&animation=fadeIn&fontAlignY=38&desc=꿈을%20향해%20나아가는%20개발자%20최현섭입니다.&descAlignY=51&descAlign=62" />
 
-## 🚀 About Me
-- 백엔드 개발자 (Java & Spring Boot)
-- REST API, JPA, Spring Security 활용 가능
-- 알고리즘 문제 풀이와 성능 최적화에 관심이 많습니다.
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
-## 🏆 Algorithm (Programmers)
-
-![Programmers](https://img.shields.io/badge/Programmers-Lv.3-blue?style=flat-square)
-
-- **레벨:** Lv.3  
-- **풀이 문제 수:** 120+  
-- **언어:** Java, JavaScript  
-
-### 📂 문제 풀이 저장소
-👉 [Programmers Solutions Repository](https://github.com/username/programmers)  
-문제별 풀이 코드를 정리했습니다. (예: `Lv2/문제명.java`)
+<p align="center">
+  <a href="https://github.com/hyun1358">
+    <img src="https://github-readme-stats.vercel.app/api?username=hyun1358&count_private=true&show_icons=true&theme=solarized-dark" alt="Hyun's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://solved.ac/profile/chs010604">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604" alt="Solved.ac Profile" />
+  </a>
+</p>
 
 ---
 
-## 📊 Skills
-- **Backend:** Java, Spring Boot, JPA, MySQL  
-- **Frontend:** HTML, CSS, JavaScript (Fetch API)  
-- **DevOps:** Git, GitHub, Docker  
+### 🔧 **Tech Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />&nbsp
+</p>
 
 ---
 
-## 📫 Contact
-- Email: your_email@example.com
-- Blog: [개발 블로그](https://your-blog-link.com)
-- GitHub: [@username](https://github.com/username)
+### 📫 **How to reach me:**
+
+<p align="left">
+  <a href="mailto:chs010604@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>&nbsp
+  <a href="mailto:chs010604@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white" /></a>&nbsp
+</p>
+
+---
