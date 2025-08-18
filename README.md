@@ -30,17 +30,12 @@
 
 ## 🏆 **Problem Solving**
 <div align="center">
-### 🎯 **Baekjoon Online Judge**
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chs010604)](https://solved.ac/profile/chs010604)
 </div>
 ---
 
 ## 📫 **Contact Me**
-
 <div align="center">
-
-### 💌 **Get In Touch**
-
 <a href="mailto:chs010604@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
@@ -50,5 +45,4 @@
 <a href="https://github.com/hyun1358">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </div>
