@@ -3,6 +3,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=FFFFFF&random=true&width=435&lines=%F0%9F%8C%8AHyun's+Profile" alt="Typing SVG" /></a>
 <br>
+<a href="">
+  <img src="https://img.shields.io/badge/velog-03C75A?style=for-the-badge&logo=velog-03C75A&logoColor=white" />
+</a>
 </div>
 
 ---
@@ -51,9 +54,6 @@
 
 <a href="mailto:chs010604@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="">
-  <img src="https://img.shields.io/badge/velog-03C75A?style=for-the-badge&logo=velog-03C75A&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/hyun1358">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
