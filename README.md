@@ -19,6 +19,10 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white) &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&theme=gotham)](https://github.com/hyun1358/github-readme-stats)
 </div>
 
 ## 📊 **GitHub Statistics**
@@ -27,7 +31,6 @@
   
 [![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&show_icons=true&count_private=true&theme=gotham&v=1)](https://github.com/hyun1358)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&theme=gotham)
 </div>
 
 ## 🏆 **Problem Solving**
