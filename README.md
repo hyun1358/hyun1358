@@ -27,7 +27,7 @@
   
 [![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun1358&show_icons=true&count_private=true&theme=gotham&v=1)](https://github.com/hyun1358)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun1358&theme=gotham)
 </div>
 
 ## 🏆 **Problem Solving**
